@@ -1,4 +1,4 @@
-package exam01;
+package day02.src.exam01;
 
 public class Ex04 {
     public static void main(String[] args) {
