@@ -1,5 +1,7 @@
 package day02.src.exam01;
 
+
+//삼항조건연산자
 public class Ex10 {
     public static void main(String[] args) {
         int num = 10;
